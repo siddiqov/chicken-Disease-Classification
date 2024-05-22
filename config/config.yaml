@@ -5,3 +5,4 @@ data_ingestion:
   source_URL: https://github.com/siddiqov/Branching-Tutorial/raw/main/Chicken_disease.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
+
